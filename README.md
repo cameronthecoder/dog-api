@@ -1,5 +1,5 @@
 # doggos 🐶
-This is a small web application that shows cute dogs. For the frontend, it uses Vue.js and for the backend it uses the FastAPI micro-framework.
+This is a small web application that allows you to share your furry friend with others. For the frontend, it uses Vue.js and for the backend it uses the FastAPI micro-framework.
 
 # Server
 To get the server up and running, follow these steps:
